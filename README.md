@@ -207,3 +207,8 @@ The final output is a CSV file containing:
 - EasyOCR for text recognition
 - OpenCV for image processing
 - The Python community for various supporting libraries
+
+---
+<sub>
+Note: Parts of this codebase were developed with assistance from Claude (Anthropic) AI, particularly for code structure, error handling, and GUI implementations. Core algorithms and logic were independently developed.
+</sub>
